@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.2.6.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.4.0.schema.json
+
+PackageIdentifier: hs2nInformationstechnologieGmbH.XEOXManagementConsole
+PackageVersion: 14.0.1
+PackageLocale: en-US
+Publisher: hs2n Informationstechnologie GmbH
+PackageName: XEOX Management Console
+License: MIT License
+ShortDescription: XEOX MC
+ManifestType: defaultLocale
+ManifestVersion: 1.4.0

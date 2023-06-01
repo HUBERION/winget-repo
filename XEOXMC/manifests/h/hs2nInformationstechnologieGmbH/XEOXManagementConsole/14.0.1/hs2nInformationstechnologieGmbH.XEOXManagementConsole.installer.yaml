@@ -1,0 +1,16 @@
+# Created using wingetcreate 1.2.6.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.4.0.schema.json
+
+PackageIdentifier: hs2nInformationstechnologieGmbH.XEOXManagementConsole
+PackageVersion: 14.0.1
+Installers:
+- InstallerUrl: https://fs.hs2n.at/files/1ba3c1cae739++a25f36c8-acef-4644-8d1b-c7550fd29366
+  InstallerLocale: en-US
+  Architecture: x86
+  InstallerType: msi
+  InstallerSha256: 9FAA0CFB03FE3AEC3524ED2EB89200730AA28277B46E47E4294DD8E70BA30B06
+  ProductCode: '{41C6B026-8E61-444C-A70C-C0270A215785}'
+  UpgradeBehavior: uninstallPrevious
+ManifestType: installer
+ManifestVersion: 1.4.0
+
