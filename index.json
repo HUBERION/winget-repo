@@ -1,0 +1,11 @@
+{
+    "version": "14.0.1",
+    "packages": [
+        {
+            "publisher": "hs2n",
+            "package": "hs2nInformationstechnologieGmbH.XEOXManagementConsole",
+            "version": "14.0.1",
+            "manifest": "https://raw.githubusercontent.com/HUBERION/winget-repo/main/manifests/h/hs2nInformationstechnologieGmbH/XEOXManagementConsole/14.0.1/hs2nInformationstechnologieGmbH.XEOXManagementConsole.installer.yaml"
+        },
+    ]
+}
